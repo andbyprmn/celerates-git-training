@@ -1,0 +1,5 @@
+Resolusi
+
+- Flutter
+- Angular 7
+- RESTFul API using Nodejs
