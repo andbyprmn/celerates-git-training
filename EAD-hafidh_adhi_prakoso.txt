@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 pid teruslah berjuang
+=======
+resolusi hapid:
+a. jadi full stack developer di google
+>>>>>>> c4382e1b97f672fc22cb679724e3a42f8bc450be
