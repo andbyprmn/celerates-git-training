@@ -1,0 +1,5 @@
+Resolusi
+
+-Bisa Java
+-Bisa react
+-Bisa go react
