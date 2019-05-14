@@ -1,0 +1,6 @@
+Resolusi 
+
+- Bisa menjadi Android Developer
+- Angular 7
+- RESTFul API using Nodejs
+- Google Cloud Platform
