@@ -1,0 +1,5 @@
+Resolusi 
+
+- Flutter
+- Angular
+- Restfull API node Js
