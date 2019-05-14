@@ -1,0 +1,5 @@
+Resolusi:
+
+- Bisa PHP
+- Bisa Frameworknya
+- Restful API Laravel/CI
