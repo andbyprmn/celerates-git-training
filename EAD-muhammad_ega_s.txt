@@ -1,0 +1,6 @@
+Resolusi
+
+- Python
+- Django
+- Nodejs
+- Basic ML
