@@ -1,1 +1,7 @@
-’ú‚ß‚È‚¢‚Ì‚Í‰´‚Ì–‚–@‚¾
+nama: budi juarto
+track: EAD
+no hp: 081227324221
+email: budi.juarto@gmail.com
+bahasa pemrograman: C++, python,.net
+skill: tableau, rapid miner, weka, anaconda
+interview :7

@@ -1,1 +1,9 @@
-Branch created by Muhammad Ega S
+Biodata
+
+Nama : Muhammad Ega S
+Track : EAD
+No. HP : 081316807155
+Email : simatupang.ega@gmail.com
+Bahasa Pemrograman : C++, Python
+Skill : Bermusik (gitar)
+Interview : 5
