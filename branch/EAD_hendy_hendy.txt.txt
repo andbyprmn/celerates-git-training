@@ -1,1 +1,12 @@
-test
+Biodata
+
+Nama: Hendy Nurfrianto
+track: EAD
+No Hp : 085716221255
+email: hendyn25@gmail.com
+Bhs pemrograman : PHP,CI,.net(sedikit),oracle,
+skill : bulutangkis
+Interview: sampe interview user 3 kali
+		-Celerates
+		-Kreditplus
+		-Bosnet
