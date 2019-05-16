@@ -33,6 +33,20 @@ Iterasi keempat:
 1 7 8 10 11         (tukar 1 dengan 7)
 
 
+
+
+
+
+for i  = 0 to jumlah - 1
+  for j = 0 to jumlah - i - 1
+     if (array(j) > array (j+1))
+         swap = array(j) 
+         array(j) = array(j+1) 
+         array(j+1) = swap
+     end-if 
+  end-for 
+end-for  
+
 Iterasi kelima:
 
 1 7 8 10 11
