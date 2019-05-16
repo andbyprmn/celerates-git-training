@@ -1,36 +1,52 @@
 /**
- * Buatlah pseudo code algoritma sorting(salah satu saja)
+ * 1.  Saya memiliki angka acak 1,4,5,3,2,8
+ *      Buatlah pseudo code algoritma sorting(salah satu saja)
  */
 
-Data = 10 8 7 11 1 
 
-Metode Bubling 
 
-Iterasi pertama:
- 
-10 8 7 11 1         (bandingkan 10 dengan 8)
-8 10 7 11 1         (tukar 10 dengan 8, bandingkan 10 dengan 7)
-8 7 10 11 1         (tukar 10 dengan 7, bandingkan 10 dengan 11)
-8 7 10 11 1         (tidak ada penukaran, bandingkan 11 denagn 1)
-8 7 10 1  11        (tukar 11 dengan 1)
+metode bubling  
+ascending
 
-Iterasi kedua:
+Iterasi pertama: 
 
-8 7 10 1 11         (bandingkan 8 dengan 7)
-7 8 10 1 11         (tukar 8 dengan 7, bandingkan 8 dengan 10)
-7 8 10 1 11         (tidak ada penukaran, bandingkan 10 dengan 1)
-7 8 1  10 11        (tukar 10 dengan 1) 
+1 4 5 3 2 8         (bandingkan 1 dengan 4)
+1 4 5 3 2 8         (tidak ada penukaran, 4 banding 5)
+1 4 5 3 2 8         (tidak ada penukaran, 5 banding 3)
+1 4 3 5 2 8         (penukaran 5 dengan 3, 5 banding 2)
+1 4 3 2 5 8         (penukaran 5 dengan 2, 5 banding 8)
+1 4 3 2 5 8         (tidak ada penukaran)
 
-Iterasi ketiga:
+Iterasi kedua: 
 
-7 8 1 10 11         (bandingkan 7 dengan 8) 
-7 8 1 10 11         (bandingkan 8 dengan 1)
-7 1 8 10 11         (tukar 8 dengan 1, bandingkan 8 dengan 10)
+1 4 3 2 5 8         (bandingkan 1 dengan 4)
+1 4 3 2 5 8         (bandingkan 3 dengan 2)
+1 3 4 2 5 8         (penukaran 4 dengan 3, 4 banding 2)
+1 3 2 4 5 8         (penukaran 2 dengan 4, 4 banding 5)
+1 3 2 4 5 8         (tidak ada penukaran, 5 banding 8)
+
+Iterasi ketiga: 
+
+1 4 3 2 5 8         (bandingkan 1 dengan 4)
+1 4 3 2 5 8         (tidak ada penukaran, 4 banding 3)
+1 3 4 2 5 8         (penukaran 4 dengan 3, 4 banding 2)
+1 3 2 4 5 8         (penukaran 4 dengan 2)
+
 
 Iterasi keempat:
 
-7 1 8 10 11         (bandingkan 7 dengan 1)
-1 7 8 10 11         (tukar 1 dengan 7)
+1 3 2 4 5 8         (bandingkan 1 dengan 3)
+1 3 2 4 5 8         (bandingkan 3 dengan 2) 
+1 2 3 4 5 8         (penukaran 3 dengan 2)
+
+Iterasi kelima:
+
+1 2 3 4 5 8         (bandingkan 1 dengan 2)
+1 2 3 4 5 8         (tidak ada penukaran, 2 banding 3)
+
+Iterasi keenam:
+
+1 2 3 4 5 8  
 
 
 
